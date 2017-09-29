@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWar", "MagicWar.csproj", "{E3D1D9E7-8AEC-370B-F802-BEAA357A7554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWar.Editor", "MagicWar.Editor.csproj", "{1EE21E97-540C-DED4-2C30-E3AE7D25F617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3D1D9E7-8AEC-370B-F802-BEAA357A7554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D1D9E7-8AEC-370B-F802-BEAA357A7554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D1D9E7-8AEC-370B-F802-BEAA357A7554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D1D9E7-8AEC-370B-F802-BEAA357A7554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE21E97-540C-DED4-2C30-E3AE7D25F617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE21E97-540C-DED4-2C30-E3AE7D25F617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE21E97-540C-DED4-2C30-E3AE7D25F617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE21E97-540C-DED4-2C30-E3AE7D25F617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
